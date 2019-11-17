@@ -7,11 +7,11 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  dogs.push(Maggie)
+  dogs.push()
 end
 
 def add_element_to_start_of_array(array, element)
-  dogs.unshift("Maggie")
+  dogs.unshift("")
 end
 
 def remove_element_from_end_of_array(array)
